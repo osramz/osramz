@@ -2,7 +2,7 @@
 
 ## 👋 Sobre mí
 
-Soy Ingeniero Civil y Magíster en Dirección y Gestión de Proyectos, actualmente especializado en Ciencia de Datos con énfasis en análisis geoespacial.
+Ingeniero Civil, Magíster en Dirección y Gestión de Proyectos, actualmente especializado en Ciencia de Datos con énfasis en Análisis Geoespacial.
 
 Mi interés principal es transformar grandes volúmenes de datos espaciales en información útil para la toma de decisiones mediante:
 
