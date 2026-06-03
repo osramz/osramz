@@ -1,4 +1,4 @@
-# 🌎 Oscar Ramirez | Geo Data Scientist
+# 🌎 Oscar Eduardo Ramirez Zambrano| Geo Data Scientist
 
 ## 👋 Sobre mí
 
