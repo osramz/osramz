@@ -143,7 +143,7 @@ Modelos aplicados a:
 
 📧 ing.oscarramirez@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com
+💼 LinkedIn: www.linkedin.com/in/oram
 
 🌐 Portafolio: Próximamente
 
