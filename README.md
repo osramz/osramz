@@ -1,4 +1,4 @@
-# 🌎 Oscar Eduardo Ramirez Zambrano| Geo Data Scientist
+# 🌎 Oscar Eduardo Ramirez Zambrano| Data Scientist
 ### Geo Data Scientist | Spatial Analytics | BigQuery GIS | Oil & Gas Intelligence
 
 ## 👋 Sobre mí
