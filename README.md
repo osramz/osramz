@@ -86,16 +86,6 @@ Modelos predictivos aplicados a infraestructura, ambiente y energía.
 
 ---
 
-# 📈 GitHub
-
-> Sustituye `osramz` si cambia tu usuario.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osramz&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osramz&layout=compact&theme=tokyonight)
-
----
-
 # 📚 Actualmente
 
 - GeoAI
