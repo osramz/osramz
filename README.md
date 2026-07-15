@@ -86,7 +86,7 @@ Modelos predictivos aplicados a infraestructura, ambiente y energía.
 
 ---
 
-# 📚 Actualmente
+# 📚 Actualmente evolucionando en:
 
 - GeoAI
 - Infrastructure Intelligence
