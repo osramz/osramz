@@ -1,154 +1,117 @@
-# 🌎 Oscar Eduardo Ramirez Zambrano| Data Scientist
-### Geo Data Scientist | Spatial Analytics | BigQuery GIS | Oil & Gas Intelligence
+# 🌎 Oscar Eduardo Ramírez Zambrano
 
-## 👋 Sobre mí
+## Infrastructure Intelligence Engineer
+**Civil Engineer | PMP® | Geo Data Scientist | Project Controls Specialist**
 
-Ingeniero Civil, Magíster en Dirección y Gestión de Proyectos, actualmente especializado en Ciencia de Datos con énfasis en Análisis Geoespacial.
+> Building the future of Infrastructure through Artificial Intelligence, Geo Data Science and Project Controls.
 
-Mi interés principal es transformar grandes volúmenes de datos espaciales en información útil para la toma de decisiones mediante:
+---
 
-- 🌍 Sistemas de Información Geográfica (GIS)
-- 🛰️ Teledetección y análisis satelital
-- 📍 Ciencia de Datos Geoespaciales
-- 🤖 Machine Learning Espacial
+# 👋 Sobre mí
+
+Soy Ingeniero Civil, PMP®, Magíster en Dirección y Gestión de Proyectos y profesional especializado en Ciencia de Datos.
+
+Combino más de **20 años de experiencia** en infraestructura y Oil & Gas con capacidades en Ciencia de Datos, Inteligencia Artificial, Analítica Geoespacial y Project Controls para desarrollar soluciones orientadas a la toma de decisiones.
+
+## 🎯 Lo que construyo
+
+- 🌎 Plataformas Geoespaciales
+- 🤖 Soluciones con Inteligencia Artificial
+- 📊 Dashboards Ejecutivos
+- 📅 Project Controls Analytics
 - ☁️ BigQuery GIS
-- 🛢️ Analítica para Oil & Gas
-- 📊 Business Intelligence
+- 🛢️ Oil & Gas Intelligence
+- 📈 Analítica Predictiva
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+# 💼 Competencias
 
-### Lenguajes
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Ciencia de Datos
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-
-### Geo Data Science
-
-![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge)
-![Shapely](https://img.shields.io/badge/Shapely-3E8E41?style=for-the-badge)
-![Rasterio](https://img.shields.io/badge/Rasterio-4CAF50?style=for-the-badge)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge)
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis)
-![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-4285F4?style=for-the-badge&logo=googleearth)
-
-### Cloud & Big Data
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+| Ingeniería | Ciencia de Datos | Project Controls |
+|------------|------------------|------------------|
+| Infraestructura | Machine Learning | Primavera P6 |
+| Oil & Gas | Python | MS Project |
+| GIS | BigQuery GIS | Earned Value |
+| Business Intelligence | SQL | Cost & Schedule Control |
 
 ---
 
-## 🗺️ Áreas de Especialización
+# 🚀 Stack Tecnológico
 
-```text
-✔ Geo Data Science
-✔ Spatial SQL
-✔ OpenStreetMap Analytics
-✔ BigQuery GIS
-✔ Machine Learning Espacial
-✔ Infraestructura Petrolera
-✔ Análisis de Redes
-✔ Series de Tiempo Espaciales
-✔ Modelado de Distribución de Especies
-✔ Dashboards Geoespaciales
-```
+## Programación
+Python • SQL • R
+
+## Geo Data Science
+GeoPandas • Rasterio • Shapely • Folium • QGIS • Google Earth Engine • GeoParquet • OpenStreetMap
+
+## IA y Ciencia de Datos
+Pandas • NumPy • Scikit-Learn • XGBoost
+
+## Cloud
+Google Cloud • BigQuery • Git • GitHub
+
+## Project Controls
+Primavera P6 • Microsoft Project • Power BI • KPI • CAPEX/OPEX • EVM
 
 ---
 
-## 📌 Proyectos Destacados
+# 🏗️ Soluciones Destacadas
 
-### 🛢️ Infraestructura Petrolera de Colombia
+## 🇨🇴 Colombia Infrastructure Intelligence
 
-Análisis geoespacial utilizando:
+Infraestructura vial, petrolera y logística usando OpenStreetMap, GeoParquet, BigQuery GIS y Python.
 
-- OpenStreetMap
-- GeoPandas
+## 🛢️ Oil & Gas Spatial Intelligence
+
+Analítica espacial para pozos, campos, producción e infraestructura.
+
+## 📅 Project Controls Analytics
+
+Dashboards ejecutivos, Curvas S, Valor Ganado, control de cronograma y costos.
+
+## 🤖 Spatial Machine Learning
+
+Modelos predictivos aplicados a infraestructura, ambiente y energía.
+
+---
+
+# 🌍 Sectores
+
+- Infraestructura
+- Oil & Gas
+- Energía
+- Transporte
+- Smart Cities
+- Medio Ambiente
+
+---
+
+# 📈 GitHub
+
+> Sustituye `osramz` si cambia tu usuario.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osramz&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osramz&layout=compact&theme=tokyonight)
+
+---
+
+# 📚 Actualmente
+
+- GeoAI
+- Infrastructure Intelligence
+- Deep Learning
+- MLOps
 - BigQuery GIS
-- GeoParquet
-
-Incluye:
-
-- Pozos petroleros
-- Campos de producción
-- Aeropuertos
-- Puentes
-- Hospitales
-- Infraestructura logística
+- Data Engineering
 
 ---
 
-### 🌎 OpenStreetMap Colombia a BigQuery
+# 📫 Contacto
 
-Pipeline completo:
-
-```text
-OSM PBF
-    ↓
-Pyrosm
-    ↓
-GeoParquet
-    ↓
-Google Cloud Storage
-    ↓
-BigQuery GIS
-    ↓
-Spatial SQL Analytics
-```
+- 📧 ing.oscarramirez@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/oram
 
 ---
 
-### 🛰️ Machine Learning Geoespacial
-
-Modelos aplicados a:
-
-- Predicción espacial
-- Clasificación territorial
-- Riesgo ambiental
-- Oil & Gas Analytics
-- Climate Analytics
-
----
-
-## 📈 Estadísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OramData&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OramData&layout=compact&theme=tokyonight)
-
----
-
-## 📚 Actualmente Aprendiendo
-
-- Spatial Machine Learning
-- Deep Learning Geoespacial
-- BigQuery GIS Avanzado
-- Google Earth Engine
-- MLOps para Ciencia de Datos
-
----
-
-## 📫 Contacto
-
-📧 ing.oscarramirez@gmail.com
-
-💼 LinkedIn: www.linkedin.com/in/oram
-
-🌐 Portafolio: Próximamente
-
----
-
-## 🌍 Mi Filosofía
-
-> "Los datos cuentan historias, pero los datos geoespaciales revelan dónde ocurren."
+> **"La ingeniería construye infraestructura. Los datos revelan oportunidades. La Inteligencia Artificial acelera las decisiones. La geografía aporta el contexto."**
