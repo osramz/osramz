@@ -1,6 +1,6 @@
 # 🌎 Oscar Eduardo Ramírez Zambrano
 
-## Infrastructure Intelligence Engineer
+## Infrastructure Data Scientist Engineer
 **Civil Engineer | PMP® | Geo Data Scientist | Project Controls Specialist**
 
 > Building the future of Infrastructure through Artificial Intelligence, Geo Data Science and Project Controls.
